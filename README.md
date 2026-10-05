@@ -1,23 +1,23 @@
 <div align="center">
 
-<!-- BANNER DINÁMICO DE SPIDER-MAN -->
+<!-- BANNER CON TU NOMBRE COMPLETO -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=250&section=header&text=Diego%20Zumaya&fontSize=52&fontColor=E23636&animation=twinkling&fontAlignY=40&desc=Mechatronics%20Eng%20|%20Builder&descAlignY=62&descColor=B64141&reversal=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=Diego%20Zumaya&fontSize=52&fontColor=1A79C7&animation=fadeIn&fontAlignY=40&desc=Mechatronics%20Eng%20|%20Builder&descAlignY=62&descColor=2E6BA8&reversal=true">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=250&text=Diego%20Zumaya" width="100%" alt="Spider-Man Themed Header">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=240&section=header&text=Diego%20Fernando%20Zumaya%20Osorio&fontSize=40&fontColor=E23636&animation=fadeIn&fontAlignY=42&desc=Mechatronics%20Engineering%20Student%20|%20UANL%20FIME&descAlignY=64&descColor=ffffff&reversal=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=240&section=header&text=Diego%20Fernando%20Zumaya%20Osorio&fontSize=40&fontColor=E23636&animation=fadeIn&fontAlignY=42&desc=Mechatronics%20Engineering%20Student%20|%20UANL%20FIME&descAlignY=64&descColor=24292f&reversal=true">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=240&text=Diego%20Fernando%20Zumaya%20Osorio" width="100%" alt="Header Diego Fernando Zumaya Osorio">
 </picture>
 
-<!-- ICONO ANIMADO SPIDER-MAN -->
+<!-- ANIMACIÓN SPIDER-MAN -->
 <br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto:00000000&height=90&section=header&text=%F0%9F%95%B7%EF%B8%A3&fontSize=75&fontColor=E23636&animation=blinking&fontAlignY=50" alt="Spider-Man Icon">
-<br>
+<img src="https://media.giphy.com/media/BWD3CtucuBX2FVCAYQ/giphy.gif" width="220" alt="Spider-Man Animated" />
+<br><br>
 
 <!-- TAGLINE ANIMADO -->
 <a href="https://github.com/Diegu1n33">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=800&lines=Diego+Zumaya+-+Mechatronics+Engineering+Student;Frontend+Development+%26+Web+Design;Creating+interactive+experiences+%26+clean+code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=850&lines=Diego+Fernando+Zumaya+Osorio;Mechatronics+Engineering+Student+at+UANL+FIME;Frontend+Development+%26+Creative+Code" alt="Typing SVG">
 </a>
 
-<br>
+<br><br>
 
 <!-- REDES SOCIALES -->
 <a href="www.linkedin.com/in/diego-fernando-zumaya-osorio-990bab377" target="_blank">
