@@ -1,20 +1,37 @@
 <div align="center">
 
-<!-- BANNER CON TRANSICIÓN (Spider-Man -> Tu foto) -->
-<!-- Sube tu archivo a una carpeta llamada 'assets' dentro del repositorio con el nombre 'spider-transition.gif' -->
-<img src="./assets/spider-transition.gif" width="100%" alt="Spider-Man Transition - Diego Zumaya" />
+<!-- BANNER DINÁMICO DE SPIDER-MAN -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=250&section=header&text=Diego%20Zumaya&fontSize=52&fontColor=E23636&animation=twinkling&fontAlignY=40&desc=Mechatronics%20Eng%20|%20Builder&descAlignY=62&descColor=B64141&reversal=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=250&section=header&text=Diego%20Zumaya&fontSize=52&fontColor=1A79C7&animation=fadeIn&fontAlignY=40&desc=Mechatronics%20Eng%20|%20Builder&descAlignY=62&descColor=2E6BA8&reversal=true">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=250&text=Diego%20Zumaya" width="100%" alt="Spider-Man Themed Header">
+</picture>
 
-<br><br>
+<!-- ICONO ANIMADO SPIDER-MAN -->
+<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=auto:00000000&height=90&section=header&text=%F0%9F%95%B7%EF%B8%A3&fontSize=75&fontColor=E23636&animation=blinking&fontAlignY=50" alt="Spider-Man Icon">
+<br>
 
 <!-- TAGLINE ANIMADO -->
 <a href="https://github.com/Diegu1n33">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=800&lines=Diego+Zumaya+-+Mechatronics+Engineering+Student;Hardware+%2B+Firmware+%2B+Creative+Web+Dev;Prototyping+ideas+from+CAD+to+Code" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=E23636&center=true&vCenter=true&width=800&lines=Diego+Zumaya+-+Mechatronics+Engineering+Student;Frontend+Development+%26+Web+Design;Creating+interactive+experiences+%26+clean+code" alt="Typing SVG">
 </a>
 
 <br>
 
 <!-- REDES SOCIALES -->
-<a href="https://github.com/Diegu1n33"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="www.linkedin.com/in/diego-fernando-zumaya-osorio-990bab377" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/diego_zum?stkn=eWl4dHA4aDcwMTg3" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E23636?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>&nbsp;&nbsp;
+<a href="https://x.com/ZumayaDieg23748" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+</a>&nbsp;&nbsp;
+<a href="https://github.com/Diegu1n33" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 <br><br>
 
@@ -26,12 +43,11 @@
 
 ## This is me :)
 
-¡Hola! Soy **Diego**, estudiante de Ingeniería Mecatrónica en **UANL FIME** 🇲🇽. Me enfoco en conectar el diseño de hardware y la fabricación digital con el desarrollo de software y sistemas embebidos.
+¡Hola! Soy **Diego**, estudiante de Ingeniería Mecatrónica en **UANL FIME** 🇲🇽. Me enfoco en el desarrollo web interactivo, la creación de interfaces limpias y el aprendizaje continuo en tecnologías de software.
 
-- ⚙️ **Enfoque técnico**: Prototipado rápido, electrónica aplicada, modelado e impresión 3D (FDM).
-- 💻 **Desarrollo**: Construyendo interfaces web interactivas y explorando la integración de microcontroladores con software.
-- 🚀 **Proyectos**: Diseñando soluciones que integran hardware y aplicaciones funcionales de código abierto.
-- 🌱 **Aprendiendo**: Profundizando en arquitectura de firmware, IoT y optimización de flujos de manufactura aditiva.
+- 🌐 **Desarrollo Web**: Creando interfaces funcionales, estructuradas y responsivas.
+- 🛠️ **Herramientas de trabajo**: Flujo constante con Git, GitHub y Visual Studio Code.
+- 🚀 **Objetivo**: Desarrollar proyectos dinámicos y seguir expandiendo mis habilidades en desarrollo frontend y programación.
 
 <br>
 
@@ -39,7 +55,7 @@
 
 ## My Tech Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,html,css,js,git,github,vscode&perline=9" alt="tech stack">
+<img src="https://skillicons.dev/icons?i=html,css,js,github,vscode&perline=5" alt="HTML, CSS, JavaScript, GitHub, VS Code">
 
 </div>
 
